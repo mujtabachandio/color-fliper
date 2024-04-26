@@ -1,0 +1,21 @@
+#Green {
+    background-color: green;
+}
+#Red {
+    background-color: red;
+}
+#Blue {
+    background-color: blue;
+}
+button{
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin: 5px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px;
+}
